@@ -2,3 +2,10 @@
 venv/
 .venv/
 __pycache__/
+
+
+# Ignore all GGUF models
+*.gguf
+
+# Ignore all FAISS index files
+*.faiss
