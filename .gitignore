@@ -18,3 +18,8 @@ chapter10/finetuned_embedding_model/
 chapter10/mnrloss_embedding_model/
 chapter10/results/
 chapter10/tsdae_embedding_model/
+
+# Ignore chapter12 trained model outputs
+chapter12/TinyLlama-1.1B-qlora/
+chapter12/TinyLlama-1.1B-dpo-qlora/
+chapter12/results/
